@@ -24,3 +24,12 @@ Q:How?
 A: Using style.css I will use classes and containers from index.html to style the element within them.
 
 Script.js setup (step 3)
+
+Q:What do you need to do to start the script.js file?
+A:Set attributes with the moment method to format time
+
+Q:How?
+A:By using the $("").attr element and the moment() method to pull data from HTML and format current time
+
+Q:Why is this necessary?
+A:To format the webpage with the current time
