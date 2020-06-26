@@ -29,7 +29,16 @@ Q:What do you need to do to start the script.js file?
 A:Set attributes with the moment method to format time
 
 Q:How?
-A:By using the $("").attr element and the moment() method to pull data from HTML and format current time
+A:By using the $("").attr element and the moment() method to pull data and sort through the $() string and format current time
 
 Q:Why is this necessary?
-A:To format the webpage with the current time
+A:To format the webpage with the current time so it can recognize past, present, future parameters
+
+Q:Whats next?
+A:Set up local storage to save users input for calendar
+
+Q:How?
+A:By using localstorage.getitem and localstorage.setitem and using the attr element to communicate witht the html
+
+
+
